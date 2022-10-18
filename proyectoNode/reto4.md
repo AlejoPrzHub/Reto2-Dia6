@@ -1,0 +1,1 @@
+el incluir la carpeta reto_2 y las imagenes al git ignore, los archivos señalados no se suben a la nube ya que el git no les hace seguimiento.
