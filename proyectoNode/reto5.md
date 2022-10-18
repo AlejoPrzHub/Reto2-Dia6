@@ -1,0 +1,2 @@
+al realizar el primer merge en el archivo main, acepta el cambio realizado en la rama 1 y nos elimina la funcion suma.
+al realizar el segundo merge en el archivo main, encuentro un conflicto entre la rama 1 y la 2 y nos pregunta que cual cambio deseamos realizar, ya sea elimianr la funcion o modificarla como en el reto 5.
